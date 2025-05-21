@@ -1,0 +1,1 @@
+Wert 5 [[Kupfermünze]]

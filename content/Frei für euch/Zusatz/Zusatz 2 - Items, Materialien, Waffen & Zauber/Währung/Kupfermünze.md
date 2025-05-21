@@ -1,0 +1,1 @@
+Wert 1 Kupfermünze

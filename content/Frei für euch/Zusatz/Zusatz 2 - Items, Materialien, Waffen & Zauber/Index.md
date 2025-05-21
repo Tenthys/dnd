@@ -1,8 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Test 2
-  workflow: Default Workflow
+  title: 0.2 Zusatz 2 - Items, Materialien, Waffen & Zauber
   sceneFolder: /
   scenes: []
   ignoredFiles: []
