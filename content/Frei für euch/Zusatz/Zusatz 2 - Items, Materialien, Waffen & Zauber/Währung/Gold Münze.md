@@ -1,1 +1,0 @@
-Wert 50 [[Kupfermünze]]

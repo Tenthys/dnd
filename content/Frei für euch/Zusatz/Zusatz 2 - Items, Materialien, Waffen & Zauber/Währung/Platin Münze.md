@@ -1,1 +1,0 @@
-Wert 100 [[Kupfermünze]]
