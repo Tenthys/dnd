@@ -5,3 +5,5 @@ rauchbar: -3 alles außer Char., Dauer des Effektes bis zur nächsten Langen Ras
 
 ==Gewicht:==
 0,4 g
+
+![[Pasted image 20250521174429.png|300]]

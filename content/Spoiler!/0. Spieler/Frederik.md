@@ -39,5 +39,5 @@ Aktuell:
 ==**Items:**==
 
 
-==**Weitere Details(Sprachen etc.):==
+==**Weitere Details(Sprachen etc.)**:==
 
