@@ -1,8 +1,8 @@
-==[[Primäre Fähigkeiten]]:== Stärke (+2)
-==[[Rettungswürfe]]:== Stärke & Konstitution
-==[[Fähigkeiten]]:== [[Mit Tieren umgehen]], [[Athletik]], [[Einschüchtern]], [[Wahrnehmung]], [[Überlebenskunst]] 
-==[[Waffenfertigkeiten]]:== [[Einfache Waffen]] & [[Kriegswaffen]] 
-==Rüstungsklassen:== Leichte und Mittlere Rüstung und Schilde
+[[Primäre Fähigkeiten]]:Stärke (+2)
+[[Rettungswürfe]]: Stärke & Konstitution
+[[Fähigkeiten]]: [[Mit Tieren umgehen]], [[Athletik]], [[Einschüchtern]], [[Wahrnehmung]], [[Überlebenskunst]] 
+[[Waffenfertigkeiten]]: [[Einfache Waffen]] & [[Kriegswaffen]] 
+Rüstungsklassen: Leichte und Mittlere Rüstung und Schilde
 
 
 ==Beschreibung:==
