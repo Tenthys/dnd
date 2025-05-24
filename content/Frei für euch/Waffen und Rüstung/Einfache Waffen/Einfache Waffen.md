@@ -1,0 +1,1 @@
+Einfache Waffen lassen sich von jeder Klasse ausführen. Man braucht kein besondere können um sie zu führen.

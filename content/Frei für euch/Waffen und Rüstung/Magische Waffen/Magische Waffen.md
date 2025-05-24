@@ -1,0 +1,1 @@
+Magische Waffen lassen sich von jeder Klasse führen allerdings von manchen besser als von anderen je nach Waffe.
