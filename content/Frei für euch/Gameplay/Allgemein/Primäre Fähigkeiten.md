@@ -1,0 +1,1 @@
+Deine Primäre Fähigkeiten sind deine Hauptangriffe und Fähigkeiten für den Kampf.  

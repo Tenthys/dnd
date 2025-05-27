@@ -1,0 +1,1 @@
+Ermöglicht dir den Umgang mit bestimmten Waffen. Falls du die Waffe nicht führen kannst verringert sich die Wahrscheinlichkeit das du triffst sowie der Schaden auf ein Minimum.

@@ -1,0 +1,1 @@
+Die Anzahl deiner Wut Aktivierungen siehst du in der Leveltabelle. Die Wut hält solange an bis du in einem Zug niemanden mehr angreifst. Deine Angriffe können währenddessen nicht mehr verfehlen und du erhälst den zusätzlichen Schaden auf deine Angriffe. Während der Wut verfällt jedoch deine Rüstungsklasse bis die Wut abgelaufen ist. 

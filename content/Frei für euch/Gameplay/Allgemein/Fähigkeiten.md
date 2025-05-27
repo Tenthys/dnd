@@ -1,0 +1,1 @@
+Du wählst zu beginn zwei Fähigkeiten. Diese geben dir auf Attribute je nach Level und Situation einen Vorteil. 
