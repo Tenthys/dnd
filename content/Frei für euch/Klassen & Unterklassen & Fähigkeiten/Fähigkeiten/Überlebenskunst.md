@@ -1,0 +1,1 @@
+Gibt die einen weiteren [[Rettungswurf]]. Gibt dir +1 wei. (Kann durch leveln verbessert werden)

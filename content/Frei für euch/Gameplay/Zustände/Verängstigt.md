@@ -1,0 +1,1 @@
+Individuum wagt es nicht einen Angriff zu benutzen.

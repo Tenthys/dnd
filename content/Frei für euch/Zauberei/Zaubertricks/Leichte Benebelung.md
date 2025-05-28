@@ -1,4 +1,5 @@
 Bietet den Spieler in ==Char==. Aktionen mit Individuen +2 sowie bei ==Ges==. Aktionen +1 
+Verbraucht [[Bonus Aktion]]
 
 ==Reichweite:==10m
 

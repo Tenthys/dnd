@@ -1,4 +1,4 @@
-Reduziert den Fallschaden um 5 Meter
+Reduziert den Fallschaden um 5 Meter. Verbraucht [[Bonus Aktion]]
 
 
 ==Reichweite:==Muss auf Gegenstand oder Individuum gewirkt werden 

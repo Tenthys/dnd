@@ -1,4 +1,4 @@
-Erzeugt eine kleine blaue Flamme die in einem Radius von 10 Metern Schwaches licht spendet (+3 Passive Wahrnehmung in Radius)
+Erzeugt eine kleine blaue Flamme die in einem Radius von 10 Metern Schwaches licht spendet (+3 Passive Wahrnehmung in Radius) Verbraucht [[Bonus Aktion]]
 
 ==Reichweite:==Muss auf brennbaren Gegenstand gewirkt werden
 

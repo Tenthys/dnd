@@ -1,0 +1,1 @@
+Ein starker Angriff der auf eine Attacke +2 dazu gibt. Erhöht die Chance zu verfehlen um 4.

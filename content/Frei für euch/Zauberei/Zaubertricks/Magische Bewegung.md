@@ -1,4 +1,4 @@
-Bewege einen Gegenstand (bis 5 Kilo) wenige Cm
+Bewege einen Gegenstand (bis 5 Kilo) wenige Cm. Verbraucht [[Bonus Aktion]]
 
 
 ==Reichweite:==30m

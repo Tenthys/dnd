@@ -1,0 +1,1 @@
+Du bist in Gesprächen einschüchternd was dir bei Würfen mit cha. +1 gibt (Kann durch leveln verbessert werden)

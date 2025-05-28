@@ -1,0 +1,1 @@
+Erhöht deine Wahrnehmung gibt deiner wei. +1 und deiner Passivwahrnehmung +2 (Kann durch leveln verbessert werden)

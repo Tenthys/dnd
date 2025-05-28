@@ -1,0 +1,1 @@
+Gibt dir +2 auf Passivwahrnehmung bei Gefahren (Fallen, verborgene Monster etc.)

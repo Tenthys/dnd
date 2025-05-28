@@ -1,4 +1,4 @@
-Der Spieler wird von einem hellen gelben Leuchten umgeben das den Spieler d4 Trefferpunkte schützt.
+Der Spieler wird von einem hellen gelben Leuchten umgeben das den Spieler d4 Trefferpunkte schützt. Verbraucht [[Bonus Aktion]]
 
 ==Reichweite:==20m
 
